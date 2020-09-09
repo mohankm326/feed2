@@ -1,0 +1,26 @@
+{
+"is_live": "false",
+"toss": "Australia won the toss and elected to field",
+"current_inning": "2",
+"fullscorecard_url": "https://zeenews.india.com/cricket/cricket-schedule/england-vs-australia-aus-in-eng-3-t20is-2020-scorecard-9135",
+"commentary_url": "https://zeenews.india.com/cricket/cricket-schedule/england-vs-australia-aus-in-eng-3-t20is-2020-commentary-9135",
+"series_short_title": "AUS in ENG, 3 T20Is, 2020",
+"team1_flag": "https://english.cdn.zeenews.com/flags/3.png?v=1.1",
+"team2_flag": "https://english.cdn.zeenews.com/flags/1.png?v=1.1",
+"innings": [
+{
+"inning_id": "2",
+"wicket": "6",
+"run": "160",
+"over": "20",
+"isplaying": 1
+},
+{
+"inning_id": "1",
+"wicket": "7",
+"run": "162",
+"over": "20",
+"isplaying": 0
+}
+]
+}
